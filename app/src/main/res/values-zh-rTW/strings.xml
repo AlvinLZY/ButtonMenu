@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ButtonMenu</string>
+    <string name="ic_Home">首頁</string>
+    <string name="ic_Settings">設置</string>
+    <string name="ic_Feedback">反饋</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="info_item">更多資訊</string>
+    <string name="exit_item">退出</string>
+</resources>

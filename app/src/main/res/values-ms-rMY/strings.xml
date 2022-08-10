@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">YourApp</string>
+    <string name="ic_Home">Rumah</string>
+    <string name="ic_Settings">Tetapan</string>
+    <string name="ic_Feedback">Maklum Balas</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="info_item">Maklumat Item</string>
+    <string name="exit_item">Keluar Item</string>
+</resources>
